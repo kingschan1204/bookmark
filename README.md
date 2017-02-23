@@ -19,15 +19,45 @@
 - [编码转换](http://tool.chinaz.com/tools/utf-8.aspx)：文本编码转换
 - [代码在线运行](http://tool.lu/coderunner/):在线运行代码java、php、C、C++、go、pyphon、nodejs
 
+---
 ## 在线帮助文档：
-
-- [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
-- [freemarker](http://freemarker.foofun.cn/): java模板引挚
-- [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
-- [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
+- [markdown](http://wowubuntu.com/markdown/#hr):markdown 语法参考手册
 - [http状态对照表](http://tool.oschina.net/commons?type=5)：http状态返回码对照表
 - [web安全色](http://www.bootcss.com/p/websafecolors/)：html 一组跨平台的通用颜色
 - [鸟哥的linux私房菜](http://linux.vbird.org/)：linux 学习网很详细
+- [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
+
+### java
+
+- [jdk6中文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh):oschina JDK6中文帮助文档
+- [jdk7英文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4):oschina jdk7 英文
+- [spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/): 官网原文
+- [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
+- [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
+- [freemarker](http://freemarker.foofun.cn/): java模板引挚
+
+
+### 数据库
+
+- [mysql 5.1](http://tool.oschina.net/apidocs/apidoc?api=mysql-5.1-zh): oschina mysql 帮助文档
+- [mysql](http://www.runoob.com/mysql/mysql-tutorial.html):快速入门
+- [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
+- [sqllite](http://www.runoob.com/sqlite/sqlite-intro.html):菜鸟教程
+
+
+### 前端
+- [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
+- [jquery 中文API文档](http://tool.oschina.net/apidocs/apidoc?api=jquery)：oschina 中文文档
+- [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
+- [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
+- [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
+
+### 代码、项目管理
+- [git](http://www.runoob.com/manual/git-guide/):git 简明教程
+- [git命令](https://git-scm.com/docs):git 命令帮助手册
+- [maven](http://tool.oschina.net/apidocs/apidoc?api=maven-3.0.4%2Fguides):oschina maven 英文手册
+
+---
 
 ## 团队协助：
 - [在线作图](https://www.processon.com/)：团队在线作图
