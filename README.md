@@ -24,8 +24,9 @@
 - [markdown](http://wowubuntu.com/markdown/#hr):markdown 语法参考手册
 - [http状态对照表](http://tool.oschina.net/commons?type=5)：http状态返回码对照表
 - [web安全色](http://www.bootcss.com/p/websafecolors/)：html 一组跨平台的通用颜色
-- [鸟哥的linux私房菜](http://linux.vbird.org/)：linux 学习网很详细
+- [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
 - [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
+- [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
 
 ### java
 
@@ -35,7 +36,8 @@
 - [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
 - [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
-
+- [dubbo](http://dubbo.io/)
+- [druid](https://github.com/alibaba/druid)
 
 ### 数据库
 
@@ -49,8 +51,11 @@
 - [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
 - [jquery 中文API文档](http://tool.oschina.net/apidocs/apidoc?api=jquery)：oschina 中文文档
 - [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
+- [bootstrap-Validation](http://bv.doc.javake.cn/api/)
 - [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
 - [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
+- [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)
+- [animate.css](https://github.com/daneden/animate.css)
 
 ### 代码、项目管理
 - [git](http://www.runoob.com/manual/git-guide/):git 简明教程
@@ -77,3 +82,9 @@
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [iteye月刊](http://www.iteye.com/news/monthly)
+- [infoq java](http://www.infoq.com/cn/java/news/)
+- [importnew](http://www.importnew.com/)
+- [酷壳](http://coolshell.cn/)
+- [linux运维](http://www.ha97.com/)
+- [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
+- [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
