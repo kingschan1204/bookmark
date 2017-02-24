@@ -72,5 +72,8 @@
 
 ## 阅读
 
-[阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
-[阿里云RDS-数据库内核组 ](http://mysql.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5)
+- [阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
+- [阿里云RDS-数据库内核组 ](http://mysql.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5)
+- [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
+- [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+- [iteye月刊](http://www.iteye.com/news/monthly)
