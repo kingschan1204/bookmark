@@ -67,3 +67,10 @@
 - [grepcode](http://grepcode.com/):java代码搜索查看
 - [searchcode](https://searchcode.com/):代码搜索
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
+
+---
+
+## 阅读
+
+[阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
+[阿里云RDS-数据库内核组 ](http://mysql.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5)
