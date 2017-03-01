@@ -19,6 +19,13 @@
 - [编码转换](http://tool.chinaz.com/tools/utf-8.aspx)：文本编码转换
 - [代码在线运行](http://tool.lu/coderunner/):在线运行代码java、php、C、C++、go、pyphon、nodejs
 
+### CDN 
+
+- [开放静态文件CDN-七牛](https://staticfile.org/)
+- [Bootstrap中文网开源项目免费CDN](http://www.bootcdn.cn/)
+- [Angular CDN](https://code.angularjs.org/)
+- [Jquery CDN](http://www.bootcdn.cn/jquery/)
+
 ---
 ## 在线帮助文档：
 - [markdown](http://wowubuntu.com/markdown/#hr):markdown 语法参考手册
