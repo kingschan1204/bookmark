@@ -18,6 +18,8 @@
 - [正则表达式测试](http://tool.chinaz.com/regex/)：javascript正则在线测试
 - [编码转换](http://tool.chinaz.com/tools/utf-8.aspx)：文本编码转换
 - [代码在线运行](http://tool.lu/coderunner/):在线运行代码java、php、C、C++、go、pyphon、nodejs
+- [二维码生成](http://cli.im/):在线二维码生成
+- [条码生成](http://www.qinms.com/webapp/barcode/index.aspx):在线条码生成
 
 ### CDN 
 
@@ -40,11 +42,14 @@
 - [jdk6中文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh):oschina JDK6中文帮助文档
 - [jdk7英文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4):oschina jdk7 英文
 - [spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/): 官网原文
+- [spring boot](http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/reference/htmlsingle/):spring boot 官网帮助文档
 - [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
 - [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
-- [dubbo](http://dubbo.io/)
-- [druid](https://github.com/alibaba/druid)
+- [dubbo](http://dubbo.io/)：阿里巴巴dubbo
+- [druid](https://github.com/alibaba/druid):阿里巴巴开源数据源
+- [jersey](https://jersey.java.net/index.html)：java restfull 框架
+
 
 ### 数据库
 
@@ -56,13 +61,16 @@
 
 ### 前端
 - [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
-- [jquery 中文API文档](http://tool.oschina.net/apidocs/apidoc?api=jquery)：oschina 中文文档
+- [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
 - [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
 - [bootstrap-Validation](http://bv.doc.javake.cn/api/)
 - [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
 - [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
 - [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)
 - [animate.css](https://github.com/daneden/animate.css)
+- [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/):emoji表情
+- [dropzonejs](http://wxb.github.io/dropzonejs.com.zh-CN/dropzonezh-CN/#configuration):dropzonejs 文件上传
+- [ueditor](http://fex.baidu.com/ueditor/):ueditor百度html编辑器
 
 ### 代码、项目管理
 - [git](http://www.runoob.com/manual/git-guide/):git 简明教程
