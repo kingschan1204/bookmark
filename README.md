@@ -20,6 +20,7 @@
 - [代码在线运行](http://tool.lu/coderunner/):在线运行代码java、php、C、C++、go、pyphon、nodejs
 - [二维码生成](http://cli.im/):在线二维码生成
 - [条码生成](http://www.qinms.com/webapp/barcode/index.aspx):在线条码生成
+- [linux命令](http://man.linuxde.net/):linux命令在线查询
 
 ### CDN 
 
