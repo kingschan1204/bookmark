@@ -28,6 +28,7 @@
 - [Bootstrap中文网开源项目免费CDN](http://www.bootcdn.cn/)
 - [Angular CDN](https://code.angularjs.org/)
 - [Jquery CDN](http://www.bootcdn.cn/jquery/)
+- [百度CDN](http://cdn.code.baidu.com/)
 
 ---
 ## 在线帮助文档：
