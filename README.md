@@ -51,7 +51,8 @@
 - [dubbo](http://dubbo.io/)：阿里巴巴dubbo
 - [druid](https://github.com/alibaba/druid):阿里巴巴开源数据源
 - [jersey](https://jersey.java.net/index.html)：java restfull 框架
-
+- [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
+- [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 
 ### 数据库
 
