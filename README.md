@@ -104,6 +104,7 @@
 - [importnew](http://www.importnew.com/)
 - [酷壳](http://coolshell.cn/)
 - [linux运维](http://www.ha97.com/)
-- [前端](https://github.com/fouber/blog):前端博客张云龙
+- [前端总结](https://github.com/fouber/blog):前端博客张云龙
+- [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial):Java 程序员眼中的 Linux
 - [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
 - [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
