@@ -38,6 +38,7 @@
 - [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
 - [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
 - [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
+- [nginx配置](https://github.com/lebinh/nginx-conf)：nginx配置
 
 ### java
 
