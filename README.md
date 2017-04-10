@@ -54,6 +54,7 @@
 - [jersey](https://jersey.java.net/index.html)：java restfull 框架
 - [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
+- [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
 
 ### 数据库
 
@@ -106,6 +107,9 @@
 - [酷壳](http://coolshell.cn/)
 - [linux运维](http://www.ha97.com/)
 - [前端总结](https://github.com/fouber/blog):前端博客张云龙
+- [前端开发技能整理](https://github.com/jobbole/web-skill-set):前端技能栈 - 前端开发入门、进阶的参考指南
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial):Java 程序员眼中的 Linux
+- [Android资源](https://github.com/jobbole/awesome-android-cn):Android 资源大全中文版
+- [2015微文](https://github.com/jobbole/awesome-wechat-dev-posts-2015)：2015 年在微信热传的 100+ 篇经典技术文章
 - [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
 - [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
