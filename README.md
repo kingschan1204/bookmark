@@ -68,7 +68,7 @@
 - [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
 - [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
 - [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
-- [bootstrap-Validation](http://bv.doc.javake.cn/api/)：bootstrap表单验证
+- [bootstrap-Validation](http://formvalidation.io/validators/)：bootstrap表单验证
 - [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
 - [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
 - [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)：百度图表
