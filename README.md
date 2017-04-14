@@ -67,6 +67,7 @@
 - [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
+- [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
 
 ### 数据库
 
