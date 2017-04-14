@@ -21,6 +21,9 @@
 - [二维码生成](http://cli.im/):在线二维码生成
 - [条码生成](http://www.qinms.com/webapp/barcode/index.aspx):在线条码生成
 - [linux命令](http://man.linuxde.net/):linux命令在线查询
+- [grepcode](http://grepcode.com/):java代码搜索查看
+- [searchcode](https://searchcode.com/):代码搜索
+- [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
 
 ### CDN 
 
@@ -32,13 +35,22 @@
 
 ---
 ## 在线帮助文档：
+
+### 前端
+- [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
+- [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
+- [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
+- [bootstrap-Validation](http://formvalidation.io/validators/)：bootstrap表单验证
+- [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
+- [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
+- [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)：百度图表
+- [animate.css](https://github.com/daneden/animate.css)：css常用动画效果
+- [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/):emoji表情
+- [dropzonejs](http://wxb.github.io/dropzonejs.com.zh-CN/dropzonezh-CN/#configuration):dropzonejs 文件上传
+- [ueditor](http://fex.baidu.com/ueditor/):ueditor百度html编辑器
 - [markdown](http://wowubuntu.com/markdown/#hr):markdown 语法参考手册
 - [http状态对照表](http://tool.oschina.net/commons?type=5)：http状态返回码对照表
 - [web安全色](http://www.bootcss.com/p/websafecolors/)：html 一组跨平台的通用颜色
-- [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
-- [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
-- [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
-- [nginx配置](https://github.com/lebinh/nginx-conf)：nginx配置
 
 ### java
 
@@ -63,19 +75,12 @@
 - [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
 - [sqllite](http://www.runoob.com/sqlite/sqlite-intro.html):菜鸟教程
 
+### 其它
+- [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
+- [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
+- [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
+- [nginx配置](https://github.com/lebinh/nginx-conf)：nginx配置
 
-### 前端
-- [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
-- [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
-- [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
-- [bootstrap-Validation](http://formvalidation.io/validators/)：bootstrap表单验证
-- [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
-- [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
-- [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)：百度图表
-- [animate.css](https://github.com/daneden/animate.css)：css常用动画效果
-- [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/):emoji表情
-- [dropzonejs](http://wxb.github.io/dropzonejs.com.zh-CN/dropzonezh-CN/#configuration):dropzonejs 文件上传
-- [ueditor](http://fex.baidu.com/ueditor/):ueditor百度html编辑器
 
 ### 代码、项目管理
 - [git](http://www.runoob.com/manual/git-guide/):git 简明教程
@@ -88,10 +93,6 @@
 - [在线作图](https://www.processon.com/)：团队在线作图
 - [teambition](https://www.teambition.com):团队在线任务分配进度跟踪
 
-## java
-- [grepcode](http://grepcode.com/):java代码搜索查看
-- [searchcode](https://searchcode.com/):代码搜索
-- [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
 
 ---
 
@@ -113,3 +114,4 @@
 - [2015微文](https://github.com/jobbole/awesome-wechat-dev-posts-2015)：2015 年在微信热传的 100+ 篇经典技术文章
 - [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
 - [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
+
