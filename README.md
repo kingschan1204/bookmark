@@ -52,12 +52,17 @@
 - [http状态对照表](http://tool.oschina.net/commons?type=5)：http状态返回码对照表
 - [web安全色](http://www.bootcss.com/p/websafecolors/)：html 一组跨平台的通用颜色
 
+### Spring
+
+- [spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/): 官网原文
+- [spring boot](http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/reference/htmlsingle/):spring boot 官网帮助文档
+- [spring data jpa](http://docs.spring.io/spring-data/jpa/docs/1.11.1.RELEASE/reference/html/):spring data jpa官方帮助文档
+- [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
+
 ### java
 
 - [jdk6中文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh):oschina JDK6中文帮助文档
 - [jdk7英文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4):oschina jdk7 英文
-- [spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/): 官网原文
-- [spring boot](http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/reference/htmlsingle/):spring boot 官网帮助文档
 - [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
 - [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
@@ -67,7 +72,7 @@
 - [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
-- [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
+
 
 ### 数据库
 
