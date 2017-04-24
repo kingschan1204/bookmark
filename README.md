@@ -119,6 +119,7 @@
 - [前端总结](https://github.com/fouber/blog):前端博客张云龙
 - [前端开发技能整理](https://github.com/jobbole/web-skill-set):前端技能栈 - 前端开发入门、进阶的参考指南
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial):Java 程序员眼中的 Linux
+- [并发编程](http://ifeve.com/)：java并发编程
 - [Android资源](https://github.com/jobbole/awesome-android-cn):Android 资源大全中文版
 - [2015微文](https://github.com/jobbole/awesome-wechat-dev-posts-2015)：2015 年在微信热传的 100+ 篇经典技术文章
 - [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
