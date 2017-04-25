@@ -103,6 +103,9 @@
 - [石墨](https://shimo.im/):在线团线文档表格协助
 
 ---
+## 好用的工具
+
+- [x-net](https://github.com/XX-net/XX-Net):x-net 自由的使用google你懂的。
 
 ## 阅读
 
