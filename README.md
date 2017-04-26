@@ -82,6 +82,8 @@
 - [mysql](http://www.runoob.com/mysql/mysql-tutorial.html):快速入门
 - [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
 - [sqllite](http://www.runoob.com/sqlite/sqlite-intro.html):菜鸟教程
+- [H2](http://h2database.com/)：小型SQL数据库，以可以作为内存数据库使用著称。
+
 
 ### 其它
 - [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
