@@ -120,6 +120,7 @@
 - [importnew](http://www.importnew.com/)
 - [酷壳](http://coolshell.cn/)
 - [掘金](https://juejin.im/)
+- [开发者头条](https://toutiao.io/c/java)：java 开发者头条
 - [linux运维](http://www.ha97.com/)
 - [前端总结](https://github.com/fouber/blog):前端博客张云龙
 - [前端开发技能整理](https://github.com/jobbole/web-skill-set):前端技能栈 - 前端开发入门、进阶的参考指南
