@@ -111,7 +111,7 @@
 
 ## open api
 
--[weibo-组件](http://open.weibo.com/widgets?cat=wb&retcode=6102)：新浪微薄组件
+- [weibo-组件](http://open.weibo.com/widgets?cat=wb&retcode=6102)：新浪微薄组件
 
 ## 阅读
 
