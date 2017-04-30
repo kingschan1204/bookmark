@@ -109,6 +109,10 @@
 
 - [x-net](https://github.com/XX-net/XX-Net):x-net 自由的使用google你懂的。
 
+## open api
+
+-[weibo-组件](http://open.weibo.com/widgets?cat=wb&retcode=6102)：新浪微薄组件
+
 ## 阅读
 
 - [阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
