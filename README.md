@@ -39,6 +39,8 @@
 ## 在线帮助文档：
 
 ### 前端
+
+- [火狐javascript技术手册](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) : 强烈推荐读一读
 - [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
 - [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
 - [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
