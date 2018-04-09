@@ -25,9 +25,10 @@
 - [searchcode](https://searchcode.com/):代码搜索
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
 - [autodraw](https://www.autodraw.com/):在线智能线条作图
+- [阿里云Docker镜像仓库](https://dev.aliyun.com/list.html)
 
 
-### CDN 
+### CDN加速
 
 - [开放静态文件CDN-七牛](https://staticfile.org/)
 - [Bootstrap中文网开源项目免费CDN](http://www.bootcdn.cn/)
@@ -62,7 +63,7 @@
 - [spring boot](http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/reference/htmlsingle/):spring boot 官网帮助文档
 - [spring data jpa](http://docs.spring.io/spring-data/jpa/docs/1.11.1.RELEASE/reference/html/):spring data jpa官方帮助文档
 - [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
-- [Spring Cloud](https://springcloud.cc/spring-cloud-dalston.html):Spring Cloud微服务实现中文帮助文档
+- [Spring Cloud](https://springcloud.cc/spring-cloud-dalston.html):Spring Cloud微服务实现中文帮助文档`Dalston.RELEASE`
 
 ### java
 
@@ -100,6 +101,12 @@
 - [git命令](https://git-scm.com/docs):git 命令帮助手册
 - [maven](http://tool.oschina.net/apidocs/apidoc?api=maven-3.0.4%2Fguides):oschina maven 英文手册
 
+
+### 运维
+- [kubernetes文档](https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html)
+- [Docker 入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
+
+
 ---
 
 ## 团队协助：
@@ -111,6 +118,7 @@
 ## 好用的工具
 
 - [x-net](https://github.com/XX-net/XX-Net):x-net 自由的使用google你懂的。
+- [百度网盘下载工具](https://lai.yuweining.cn/archives/1336/) : 不限速下载
 
 ## open api
 
@@ -118,6 +126,12 @@
 
 ## 阅读
 
+## 优秀博客
+- [程序猿DD](http://blog.didispace.com/) : spring boot 、spring cloud
+- [纯洁的微笑](http://blog.didispace.com/) : spring boot 、spring cloud
+
+
+## 技术阅读
 - [阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
 - [阿里云RDS-数据库内核组 ](http://mysql.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5)
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
