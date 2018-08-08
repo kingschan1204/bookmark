@@ -79,7 +79,9 @@
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
 - [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
+- [2018 Java 后端工程师的书单推荐](http://www.iocoder.cn/Architecture/books-recommended/):2018 Java 后端工程师的书单推荐
 - [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
+
 
 
 
