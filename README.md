@@ -78,6 +78,8 @@
 - [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
+- [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
+
 
 
 ### 数据库
