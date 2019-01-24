@@ -26,6 +26,8 @@
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
 - [autodraw](https://www.autodraw.com/):在线智能线条作图
 - [阿里云Docker镜像仓库](https://dev.aliyun.com/list.html)
+- [在线图标下载](https://www.easyicon.net/):icon图标
+- [icon图标查询](http://www.iconfinder.com/):icon图标查找
 
 
 ### CDN加速
@@ -64,7 +66,7 @@
 - [spring data jpa](http://docs.spring.io/spring-data/jpa/docs/1.11.1.RELEASE/reference/html/):spring data jpa官方帮助文档
 - [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
 - [Spring Cloud](https://springcloud.cc/spring-cloud-dalston.html):Spring Cloud微服务实现中文帮助文档`Dalston.RELEASE`
-- [Spring boot 资源导航](http://springboot.fun/)
+- [Spring boot 资源导航](http://springboot.fun/) : Spring boot 相关资源导航（开源项目，文档，博客）
 
 ### java
 
@@ -96,7 +98,6 @@
 
 
 ### 其它
-- [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
 - [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
 - [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
 - [nginx配置](https://github.com/lebinh/nginx-conf)：nginx配置
@@ -114,7 +115,7 @@
 - [Docker 入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 - [ELK手册](https://anbc.gitbooks.io/elk-handbook/https://anbc.gitbooks.io/elk-handbook/ )
 - [K8s中文文档](http://docs.kubernetes.org.cn/ )
-
+- [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
 
 ---
 
@@ -138,6 +139,8 @@
 ## 优秀博客
 - [程序猿DD](http://blog.didispace.com/) : spring boot 、spring cloud
 - [纯洁的微笑](http://blog.didispace.com/) : spring boot 、spring cloud
+- [并发编程](http://ifeve.com/)：java并发编程
+- [linux运维](http://www.ha97.com/)
 
 
 ## 技术阅读
@@ -151,13 +154,10 @@
 - [酷壳](http://coolshell.cn/)
 - [掘金](https://juejin.im/)
 - [开发者头条](https://toutiao.io/c/java)：java 开发者头条
-- [linux运维](http://www.ha97.com/)
 - [前端总结](https://github.com/fouber/blog):前端博客张云龙
 - [前端开发技能整理](https://github.com/jobbole/web-skill-set):前端技能栈 - 前端开发入门、进阶的参考指南
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial):Java 程序员眼中的 Linux
-- [并发编程](http://ifeve.com/)：java并发编程
 - [Android资源](https://github.com/jobbole/awesome-android-cn):Android 资源大全中文版
 - [2015微文](https://github.com/jobbole/awesome-wechat-dev-posts-2015)：2015 年在微信热传的 100+ 篇经典技术文章
 - [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
 - [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
-
