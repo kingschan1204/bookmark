@@ -29,6 +29,9 @@
 - [在线图标下载](https://www.easyicon.net/):icon图标
 - [icon图标查询](http://www.iconfinder.com/):icon图标查找
 - [properties转yml](http://www.toyaml.com/index.html): properties转换成yml格式
+- [JMESPath](https://www.rdtoc.com/tools/jmespath): JMESPath提取工具
+- [JSONPath](https://www.rdtoc.com/tools/jsonpath): JSONPath提取工具
+- [TableConvert](https://tableconvert.com/): 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
 
 
 ### CDN加速
