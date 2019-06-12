@@ -93,7 +93,7 @@
 
 
 ### 数据库
-
+- [mongodb中文手册](http://www.mongoing.com/docs/):mongodb 中文手册
 - [mysql 5.1](http://tool.oschina.net/apidocs/apidoc?api=mysql-5.1-zh): oschina mysql 帮助文档
 - [mysql](http://www.runoob.com/mysql/mysql-tutorial.html):快速入门
 - [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
