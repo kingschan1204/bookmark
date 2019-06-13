@@ -103,7 +103,7 @@
 
 
 ### 其它
-- [mybatis-plus文档]:(https://baomidou.gitee.io/mybatis-plus-doc/#/quick-start)：mybatis-plus文档
+- [mybatis-plus文档](https://baomidou.gitee.io/mybatis-plus-doc/#/quick-start)：mybatis-plus文档
 - [nginx](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh) ：一个高性能的HTTP和反向代理服务器
 - [nginx从入门到精通](http://tengine.taobao.org/book/index.html)
 - [nginx配置](https://github.com/lebinh/nginx-conf)：nginx配置
