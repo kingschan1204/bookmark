@@ -35,35 +35,8 @@
 - [TableConvert](https://tableconvert.com/): 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
 - [图片压缩](https://docsmall.com/) : 强大的图片、pdf压缩工具
 
-
-### CDN加速
-
-- [开放静态文件CDN-七牛](https://staticfile.org/)
-- [Bootstrap中文网开源项目免费CDN](http://www.bootcdn.cn/)
-- [Angular CDN](https://code.angularjs.org/)
-- [Jquery CDN](http://www.bootcdn.cn/jquery/)
-- [百度CDN](http://cdn.code.baidu.com/)
-
 ---
 ## 在线帮助文档：
-
-### 前端
-
-- [火狐javascript技术手册](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) : 强烈推荐读一读
-- [jquery 英文API文档](http://api.jquery.com/) : jquery官网文档
-- [jquery 中文API文档](http://jquery.cuishifeng.cn/index.html)：第三方提供的中文文档
-- [bootstrap](http://v3.bootcss.com/):来自 Twitter，是目前很受欢迎的前端框架
-- [bootstrap-Validation](http://formvalidation.io/validators/)：bootstrap表单验证
-- [angular](https://angular.cn/docs/ts/latest/guide/):中文社区文档
-- [angular](http://www.runoob.com/angularjs/angularjs-tutorial.html):菜鸟教程
-- [echarts](http://echarts.baidu.com/echarts2/doc/doc.html)：百度图表
-- [animate.css](https://github.com/daneden/animate.css)：css常用动画效果
-- [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/):emoji表情
-- [dropzonejs](http://wxb.github.io/dropzonejs.com.zh-CN/dropzonezh-CN/#configuration):dropzonejs 文件上传
-- [ueditor](http://fex.baidu.com/ueditor/):ueditor百度html编辑器
-- [markdown](http://wowubuntu.com/markdown/#hr):markdown 语法参考手册
-- [http状态对照表](http://tool.oschina.net/commons?type=5)：http状态返回码对照表
-- [web安全色](http://www.bootcss.com/p/websafecolors/)：html 一组跨平台的通用颜色
 
 ### Spring
 
