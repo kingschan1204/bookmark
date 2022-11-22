@@ -88,6 +88,7 @@
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
 - [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
 - [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
+- [sharding-jdbc](https://shardingsphere.apache.org/document/current/cn/overview/) : sharding-jdbc
 
 
 
@@ -99,6 +100,7 @@
 - [redis](http://www.redis.net.cn/order/)：个开源的使用ANSIC语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库
 - [sqllite](http://www.runoob.com/sqlite/sqlite-intro.html):菜鸟教程
 - [H2](http://h2database.com/)：小型SQL数据库，以可以作为内存数据库使用著称。
+- [ClickHouse](https://clickhouse.com/docs/zh/) clickhouse官方手册
 
 
 ### 其它
@@ -128,6 +130,9 @@
 - [程序猿DD](http://blog.didispace.com/) : spring boot 、spring cloud
 - [并发编程](http://ifeve.com/)：java并发编程
 - [java体系](https://pdai.tech/)：java体系
+- [苏洋博客](https://soulteary.com/subject/tech/): 苏洋博客
+- [美团技术团队](https://tech.meituan.com/) : 美团技术团队
+- [阿里云藏经阁](https://developer.aliyun.com/ebook/?spm=a2c6h.26392459.ebook-detail.2.78c15d49lAuVUx) : 阿里云藏经阁
 
 
 
