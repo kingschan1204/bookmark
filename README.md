@@ -5,34 +5,59 @@
 
 ## 在线工具
 
-- [在线cron表达式生成](http://cron.qqe2.com/)：java quartz cron表达式生成
-- [开发人员在线工具](http://tool.lu/)：开发人员工具集合如json,php,css,base64编码,useragent分析。等等
-- [文本比较](https://www.diffchecker.com/)：比较两个文本的差异
-- [在线markdown](https://www.zybuluo.com/mdeditor):一个在线markdown编辑器
+### 文本类
+
+| title      | Description |
+| ----------- | ----------- |
+| [文本比较](https://www.diffchecker.com/)      | 比较两个文本的差异       |
+| [在线markdown](https://www.zybuluo.com/mdeditor) | 一个在线markdown编辑器 |
+| [加解密](http://tool.chinaz.com/tools/textencrypt.aspx) |文本加解密,MD5/base64/散列/哈希 |
+
+
+### json
+
+| title      | Description |
+| ----------- | ----------- |
+| [json格式化](http://json.cn/)      | json字符串格式化       |
+| [json编辑器](http://www.bejson.com/jsoneditoronline/) | json在线编辑器 |
+| [JSONPath](https://www.rdtoc.com/tools/jsonpath) | JSONPath提取工具 |
+
+### 图片类
+
+| title | Description |
+| --- | ----------- |
+| [二维码生成](http://cli.im/) | 在线二维码生成 |
+| [条码生成](http://www.qinms.com/webapp/barcode/index.aspx) | 在线条码生成 |
+| [图片压缩](https://docsmall.com/) | 强大的图片、pdf压缩工具 |
+| [在线图标下载](https://www.easyicon.net/) | icon图标 |
+| [icon图标查询](http://www.iconfinder.com/) | icon图标查找 |
+| [autodraw](https://www.autodraw.com/) | 在线智能线条作图 |
+
+### 代码类
+
+| title | Description |
+| --- | ----------- |
+| [在线cron表达式生成](http://cron.qqe2.com/) | java quartz cron表达式生成 |
+| [sql格式化](http://tool.lu/sql/) | sql代码格式化 |
+| [sql转java-bean](http://www.autojcode.com/code/sql2class.jsp#) | 根据输入的sql生成java代码 |
+| [正则表达式测试](http://tool.chinaz.com/regex/) | javascript正则在线测试 |
+| [properties转yml](http://www.toyaml.com/index.html) | properties转换成yml格式 |
+| [开发人员在线工具](http://tool.lu/) | 开发人员工具集合如json,php,css,base64编码,useragent分析。 |
+| [unix时间戳转换](http://tool.chinaz.com/Tools/unixtime.aspx) | unix时间戳（10位整数）转换 |
+| [代码在线运行](http://tool.lu/coderunner/) | 在线运行代码java、php、C、C++、go、pyphon、nodejs |
+| [TableConvert](https://tableconvert.com/) | 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式 |
+
+
+
+### 其它
+
 - [单位转换](http://www.convertworld.com/zh-hans/)：一个在线单位转换如 （1G=?M=?KB=?K）
-- [加解密](http://tool.chinaz.com/tools/textencrypt.aspx)：文本加解密,MD5/base64/散列/哈希
-- [unix时间戳转换](http://tool.chinaz.com/Tools/unixtime.aspx)：unix时间戳（10位整数）转换
-- [sql格式化](http://tool.lu/sql/)：sql代码格式化
-- [sql转java-bean](http://www.autojcode.com/code/sql2class.jsp#):根据输入的sql生成java代码
-- [json格式化](http://json.cn/)：json字符串格式化
-- [json编辑器](http://www.bejson.com/jsoneditoronline/):json在线编辑器
-- [正则表达式测试](http://tool.chinaz.com/regex/)：javascript正则在线测试
-- [编码转换](http://tool.chinaz.com/tools/utf-8.aspx)：文本编码转换
-- [代码在线运行](http://tool.lu/coderunner/):在线运行代码java、php、C、C++、go、pyphon、nodejs
-- [二维码生成](http://cli.im/):在线二维码生成
-- [条码生成](http://www.qinms.com/webapp/barcode/index.aspx):在线条码生成
 - [linux命令](http://man.linuxde.net/):linux命令在线查询
 - [searchcode](https://searchcode.com/):代码搜索
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
-- [autodraw](https://www.autodraw.com/):在线智能线条作图
 - [阿里云Docker镜像仓库](https://dev.aliyun.com/list.html)
-- [在线图标下载](https://www.easyicon.net/):icon图标
-- [icon图标查询](http://www.iconfinder.com/):icon图标查找
-- [properties转yml](http://www.toyaml.com/index.html): properties转换成yml格式
 - [JMESPath](https://www.rdtoc.com/tools/jmespath): JMESPath提取工具
-- [JSONPath](https://www.rdtoc.com/tools/jsonpath): JSONPath提取工具
-- [TableConvert](https://tableconvert.com/): 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
-- [图片压缩](https://docsmall.com/) : 强大的图片、pdf压缩工具
+
 
 ---
 ## 在线帮助文档：
