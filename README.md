@@ -54,8 +54,6 @@
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
 - [dubbo](http://dubbo.io/)：阿里巴巴dubbo
 - [druid](https://github.com/alibaba/druid):阿里巴巴开源数据源
-- [jersey](https://jersey.java.net/index.html)：java restfull 框架
-- [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
 - [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
