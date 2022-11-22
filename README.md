@@ -55,8 +55,6 @@
 - [linux命令](http://man.linuxde.net/):linux命令在线查询
 - [searchcode](https://searchcode.com/):代码搜索
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
-- [阿里云Docker镜像仓库](https://dev.aliyun.com/list.html)
-- [JMESPath](https://www.rdtoc.com/tools/jmespath): JMESPath提取工具
 
 
 ---
