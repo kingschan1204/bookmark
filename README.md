@@ -62,6 +62,7 @@
 - [linux命令](http://man.linuxde.net/):linux命令在线查询
 - [searchcode](https://searchcode.com/):代码搜索
 - [maven中央仓库](https://mvnrepository.com/)：maven jar包查找，依赖关系查看
+- [lintcode](https://www.lintcode.com/problem/?utm_source=sc-zhihu-mwy0626) 代码训练
 
 
 ---
@@ -115,8 +116,6 @@
 
 
 ### 运维
-- [kubernetes文档](https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html)
-- [kubernetes指南](https://kubernetes.feisky.xyz/zh/)
 - [Docker 入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 - [ELK手册](https://anbc.gitbooks.io/elk-handbook/https://anbc.gitbooks.io/elk-handbook/ )
 - [K8s中文文档](http://docs.kubernetes.org.cn/ )
