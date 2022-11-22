@@ -132,14 +132,7 @@
 - [石墨](https://shimo.im/):在线团线文档表格协助
 
 ---
-## 好用的工具
 
-- [x-net](https://github.com/XX-net/XX-Net):x-net 自由的使用google你懂的。
-- [百度网盘下载工具](https://lai.yuweining.cn/archives/1336/) : 不限速下载
-
-## open api
-
-- [weibo-组件](http://open.weibo.com/widgets?cat=wb&retcode=6102)：新浪微薄组件
 
 ## 阅读
 
@@ -152,19 +145,6 @@
 
 ## 技术阅读
 - [阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
-- [阿里云RDS-数据库内核组 ](http://mysql.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5)
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
-- [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
-- [iteye月刊](http://www.iteye.com/news/monthly)
-- [infoq java](http://www.infoq.com/cn/java/news/)
-- [importnew](http://www.importnew.com/)
-- [酷壳](http://coolshell.cn/)
 - [掘金](https://juejin.im/)
-- [开发者头条](https://toutiao.io/c/java)：java 开发者头条
-- [前端总结](https://github.com/fouber/blog):前端博客张云龙
-- [前端开发技能整理](https://github.com/jobbole/web-skill-set):前端技能栈 - 前端开发入门、进阶的参考指南
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial):Java 程序员眼中的 Linux
-- [Android资源](https://github.com/jobbole/awesome-android-cn):Android 资源大全中文版
-- [2015微文](https://github.com/jobbole/awesome-wechat-dev-posts-2015)：2015 年在微信热传的 100+ 篇经典技术文章
-- [github java-start排名](https://github.com/search?l=Java&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
-- [github javascript-start排名](https://github.com/search?l=JavaScript&q=+stars%3A%3E0&ref=searchresults&type=Repositories)
