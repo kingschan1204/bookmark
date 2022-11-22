@@ -124,23 +124,13 @@
 - [K8s中文文档](http://docs.kubernetes.org.cn/ )
 - [鸟哥的linux私房菜](http://cn.linux.vbird.org/)：linux 学习网很详细
 
----
-
-## 团队协助：
-- [在线作图](https://www.processon.com/)：团队在线作图
-- [teambition](https://www.teambition.com):团队在线任务分配进度跟踪
-- [石墨](https://shimo.im/):在线团线文档表格协助
-
----
 
 
 ## 阅读
 
 ## 优秀博客
 - [程序猿DD](http://blog.didispace.com/) : spring boot 、spring cloud
-- [纯洁的微笑](http://blog.didispace.com/) : spring boot 、spring cloud
 - [并发编程](http://ifeve.com/)：java并发编程
-- [linux运维](http://www.ha97.com/)
 
 
 ## 技术阅读
