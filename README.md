@@ -44,7 +44,6 @@
 - [spring data jpa](http://docs.spring.io/spring-data/jpa/docs/1.11.1.RELEASE/reference/html/):spring data jpa官方帮助文档
 - [Spring Data Redis](http://docs.spring.io/spring-data/data-redis/docs/current/reference/html/):Spring Data Redis官方帮助文档
 - [Spring Cloud](https://springcloud.cc/spring-cloud-dalston.html):Spring Cloud微服务实现中文帮助文档`Dalston.RELEASE`
-- [Spring boot 资源导航](http://springboot.fun/) : Spring boot 相关资源导航（开源项目，文档，博客）
 
 ### java
 
@@ -60,7 +59,6 @@
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
 - [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
-- [2018 Java 后端工程师的书单推荐](http://www.iocoder.cn/Architecture/books-recommended/):2018 Java 后端工程师的书单推荐
 - [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
 
 
