@@ -78,8 +78,7 @@
 
 ### java
 
-- [jdk6中文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh):oschina JDK6中文帮助文档
-- [jdk7英文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4):oschina jdk7 英文
+- [jdk8中文帮助文档](https://www.matools.com/api/java8): jdk8中文帮助文档
 - [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
 - [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
