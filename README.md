@@ -91,6 +91,7 @@
 - [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
 - [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
 - [sharding-jdbc](https://shardingsphere.apache.org/document/current/cn/overview/) : sharding-jdbc
+- [junit5](https://doczhcn.gitbook.io/junit5/index/index-2/annotations) : junit5
 
 
 
